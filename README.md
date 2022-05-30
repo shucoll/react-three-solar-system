@@ -2,9 +2,9 @@
 
 This is a simple solar system visualization using react-three-js
 
-The planet size and orbital sizes are relative(approx) to actual sizes.
+The planet sizes and orbital sizes are relative to actual sizes(approx) .
 
-## [Live DEMO]()
+## [Live DEMO](https://react-three-solar-system.netlify.app)
 
 ## Setup
 
